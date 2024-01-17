@@ -1,0 +1,102 @@
+case_id,title,suite,suite_id,assignee,time_spent_ms,status,finish_time,steps,steps_input_data,steps_expected_result,steps_status,steps_comments,comment,stacktrace,priority,severity,automation,type,tags,case_parameter
+27,"Homepage Display","Homepage Capability",6,"Prasetio Hadi",5653,Passed,"2024-01-17 02:58:51","1. Click Home
+","1. 
+","1. Get a display home page
+","1. Untested
+","1. ",,,Medium,Normal,"To be automated",Functional,,
+15,"Divisi Konservasi selengkapnya","Homepage Capability",6,"Prasetio Hadi",10000,Failed,"2024-01-17 02:59:09","1. Next Page
+2. Next Page
+","1. 
+2. 
+","1. Get a display next page
+2. Stuck
+","1. Untested
+2. Untested
+","1. 
+2. ",,,Medium,Normal,"To be automated",Functional,,
+16,"Divisi Gunung Hutan selengkapnya","Homepage Capability",6,"Prasetio Hadi",17000,Failed,"2024-01-17 03:00:11","1. Next Page
+2. Next Page
+","1. 
+2. 
+","1. Get a display next page
+2. Stuck
+","1. Untested
+2. Failed
+","1. 
+2. ",,,Medium,Normal,"To be automated",Functional,,
+17,"Divisi Rock Climbing selengkapnya","Homepage Capability",6,"Prasetio Hadi",2000,Failed,"2024-01-17 03:00:57","1. Next Page
+2. Next Page
+","1. 
+2. 
+","1. Get a display next page
+2. Stuck
+","1. Untested
+2. Untested
+","1. 
+2. ",,,Medium,Normal,"To be automated",Functional,,
+18,"Penasaran dengan kami?","Homepage Capability",6,"Prasetio Hadi",5267,Passed,"2024-01-17 03:01:24","1. Next Page
+2. Next Page
+","1. 
+2. 
+","1. Get a display next page
+2. Stuck
+","1. Untested
+2. Untested
+","1. 
+2. ",,,Medium,Normal,"To be automated",Functional,,
+19,"footer social icons facebook","Homepage Capability",6,"Prasetio Hadi",6692,Passed,"2024-01-17 03:01:29","1. Next Page
+2. Next Page
+","1. 
+2. 
+","1. Get a display next page
+2. Stuck
+",,,,,Medium,Normal,"To be automated",Functional,,
+20,"footer social icons whatsapp","Homepage Capability",6,"Prasetio Hadi",1264,Passed,"2024-01-17 03:01:32","1. Next Page
+2. Next Page
+","1. 
+2. 
+","1. Get a display next page
+2. Stuck
+",,,,,Medium,Normal,"To be automated",Functional,,
+21,"footer social icons instagram","Homepage Capability",6,"Prasetio Hadi",639,Passed,"2024-01-17 03:01:34","1. Next Page
+2. Next Page
+","1. 
+2. 
+","1. Get a display next page
+2. Stuck
+",,,,,Medium,Normal,"To be automated",Functional,,
+22,"footer social icons youtube","Homepage Capability",6,"Prasetio Hadi",702,Passed,"2024-01-17 03:01:36","1. Next Page
+2. Next Page
+","1. 
+2. 
+","1. Get a display next page
+2. Stuck
+",,,,,Medium,Normal,"To be automated",Functional,,
+23,"ABOUT US","Homepage Capability",6,"Prasetio Hadi",1054,Passed,"2024-01-17 03:01:39","1. Next Page
+2. Next Page
+","1. 
+2. 
+","1. Get a display next page
+2. Stuck
+",,,,,Medium,Normal,"To be automated",Functional,,
+24,CONTACT,"Homepage Capability",6,"Prasetio Hadi",1187,Passed,"2024-01-17 03:01:42","1. Next Page
+2. Next Page
+","1. 
+2. 
+","1. Get a display next page
+2. Stuck
+",,,,,Medium,Normal,"To be automated",Functional,,
+25,"PRIVACY POLICY","Homepage Capability",6,"Prasetio Hadi",1795,Passed,"2024-01-17 03:01:45","1. Next Page
+2. Next Page
+","1. 
+2. 
+","1. Get a display next page
+2. Stuck
+",,,,,Medium,Normal,"To be automated",Functional,,
+26,"TERMS OF SERVICES","Homepage Capability",6,"Prasetio Hadi",742,Passed,"2024-01-17 03:01:47","1. Next Page
+2. Next Page
+","1. 
+2. 
+","1. Get a display next page
+2. Stuck
+",,,,,Medium,Normal,"To be automated",Functional,,
